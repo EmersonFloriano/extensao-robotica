@@ -1,1 +1,1 @@
-# Site of the educational robotics and internet of things project
+# Site of the EDUCATIONAL ROBOTICS AND INTERNET OF THINGS project
